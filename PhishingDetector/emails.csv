@@ -1,0 +1,22 @@
+text,label
+"Your bank account is locked. Click here to unlock.",phishing
+"Meeting at 3 PM tomorrow in Conference Room 2",legitimate
+"Verify your PayPal account now to avoid suspension",phishing
+"Your Amazon order #12345 has been shipped",legitimate
+"Your bank needs verification - click now",phishing
+"Team lunch next Friday",legitimate
+"You won a free iPhone!",phishing
+"Meeting agenda attached",legitimate
+"Account suspended - verify now",phishing
+"Your monthly report",legitimate
+"UPS: Pay $1.99 shipping fee to receive your package",phishing
+"IT Security: Unusual login attempt from Nigeria",phishing
+"DocuSign: Pending document requires your signature",phishing
+"HR: Your 2023 W-2 tax form is available",phishing
+"Facebook: Someone tagged you in 12 photos",phishing
+
+"IT Scheduled Maintenance: Systems down Sunday 3-5 AM",legitimate
+"Your recent support ticket (#5678) was resolved",legitimate
+"Reminder: Submit your timesheet by Friday 5 PM",legitimate
+"New employee handbook attached for review",legitimate
+"Company picnic rescheduled to July 15th",legitimate
