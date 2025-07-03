@@ -1,12 +1,12 @@
 # PhishingDetector  
- A Python tool which detects phishing emails using machine learning.
+🔍 A Python tool that detects phishing emails using machine learning.
 
-# Quick start
+## 🚀 Quick Start  
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone https://github.com/SyedMujtaba1-tech/PhishingDetector.git
 
-# Install dependencies & run
+# 2. Install & run
 cd PhishingDetector
 ./setup.sh
 python phish_detector.py
