@@ -6,6 +6,6 @@ A Python tool which detects phishing emails using machine learning.
    ```bash
    ./setup.sh
 
-## for clone:
+## To clone:
 
-git clone https://github.com/SyedMujtaba1-tech/Cyber.sec1.git
+https://github.com/SyedMujtaba1-tech/PhishingDetector
